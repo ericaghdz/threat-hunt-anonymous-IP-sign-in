@@ -1,4 +1,4 @@
-# Threat Hunt Report — Incident 87241
+# Threat Hunt Report — Anonymous IP Sign-In — Incident 87241
 **Classification:** Internal Use Only
 **Hunt Date:** 11 June 2026
 **Analyst:** Eric Aguilar-Hernandez
